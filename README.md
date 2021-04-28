@@ -27,7 +27,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [Netlify](https://www.netlify.com/)
+- [View on Netlify](https://stupefied-jang-67cecf.netlify.app/)
 
 ## NOTE.
 
