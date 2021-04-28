@@ -33,6 +33,7 @@ background-position: cover;
 } */
 main {
   background-color: var(--bs-main);
+  overflow-x: hidden;
 }
 
 .nav {
