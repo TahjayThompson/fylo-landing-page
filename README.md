@@ -16,7 +16,7 @@ challenge was to build out this landing page and get it looking as close to the 
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [View on Netlify](https://serene-knuth-d70274.netlify.app/)
+- [View on Netlify](https://fylo-tjcode.netlify.app/)
 
 ## NOTE.
 
