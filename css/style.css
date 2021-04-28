@@ -363,8 +363,8 @@ input{
 .footer_text{
   display:flex;
   flex-direction: row;
-  justify-content:flex-start;
-  align-items: center;
+  justify-content:center;
+  align-content: center;
 
 }
 
@@ -385,8 +385,10 @@ input{
 .footer_text .contact{
   display:flex;
   flex-direction: column;
-  align-items: baseline;
-  padding: 1.5rem;
+  justify-content:flex-start;
+  align-content: flex-start;
+  padding:1.5rem 0;
+  padding-top:0;
 
 
 }
@@ -406,13 +408,13 @@ input{
 .footer_text .resource{
   display:flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .footer_text .cta{
   display:flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 
 
 }
@@ -422,8 +424,9 @@ input{
   
   display:flex;
   flex-wrap: wrap;
-  justify-content:flex-start;
+  justify-content:center;
   align-items: center;
+  padding:12px;
 
 
 }
