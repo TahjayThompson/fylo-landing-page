@@ -336,7 +336,7 @@ input{
   background-color:var(--bs-footer);
   font-size:2rem;
   padding:2rem;
-  max-height: 430px;
+  max-height: 500px;
 
 }
 
@@ -347,10 +347,6 @@ input{
 }
 
 
-.img_logo{
-
-
-}
 
 .footer_text{
   display:flex;
@@ -422,4 +418,15 @@ input{
 
 .pall{
   padding:10px;
+}
+
+
+.bottom_section .socials img{
+  width:2rem;
+  height: 2rem;
+  padding:6px;
+  margin:2px;
+  border-radius: 3px;
+  background-color: #fff;
+
 }
